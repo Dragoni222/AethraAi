@@ -1,0 +1,17 @@
+C:\Users\10212\RiderProjects\Aethra\Aethra\bin\Debug\net7.0\Aethra.exe
+C:\Users\10212\RiderProjects\Aethra\Aethra\bin\Debug\net7.0\Aethra.deps.json
+C:\Users\10212\RiderProjects\Aethra\Aethra\bin\Debug\net7.0\Aethra.runtimeconfig.json
+C:\Users\10212\RiderProjects\Aethra\Aethra\bin\Debug\net7.0\Aethra.dll
+C:\Users\10212\RiderProjects\Aethra\Aethra\bin\Debug\net7.0\Aethra.pdb
+C:\Users\10212\RiderProjects\Aethra\Aethra\bin\Debug\net7.0\MathNet.Numerics.dll
+C:\Users\10212\RiderProjects\Aethra\Aethra\obj\Debug\net7.0\Aethra.csproj.AssemblyReference.cache
+C:\Users\10212\RiderProjects\Aethra\Aethra\obj\Debug\net7.0\Aethra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10212\RiderProjects\Aethra\Aethra\obj\Debug\net7.0\Aethra.AssemblyInfoInputs.cache
+C:\Users\10212\RiderProjects\Aethra\Aethra\obj\Debug\net7.0\Aethra.AssemblyInfo.cs
+C:\Users\10212\RiderProjects\Aethra\Aethra\obj\Debug\net7.0\Aethra.csproj.CoreCompileInputs.cache
+C:\Users\10212\RiderProjects\Aethra\Aethra\obj\Debug\net7.0\Aethra.csproj.CopyComplete
+C:\Users\10212\RiderProjects\Aethra\Aethra\obj\Debug\net7.0\Aethra.dll
+C:\Users\10212\RiderProjects\Aethra\Aethra\obj\Debug\net7.0\refint\Aethra.dll
+C:\Users\10212\RiderProjects\Aethra\Aethra\obj\Debug\net7.0\Aethra.pdb
+C:\Users\10212\RiderProjects\Aethra\Aethra\obj\Debug\net7.0\Aethra.genruntimeconfig.cache
+C:\Users\10212\RiderProjects\Aethra\Aethra\obj\Debug\net7.0\ref\Aethra.dll

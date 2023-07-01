@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sIB6UL8MgRgPTcSh2J1s2uWG1IXKhczgiZwYU4tIkCoNAsKDak6vq9mN4ackibQS1kMzp0H7XJUDcKEJse7xNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\10212\\RiderProjects\\Aethra\\Aethra\\Aethra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\10212\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
